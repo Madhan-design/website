@@ -26,6 +26,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+```
 home.html
 
 <!DOCTYPE html>
@@ -915,7 +916,7 @@ admin.html
 
 </body>
 </html>
-
+```
 # OUTPUT:
 ![Screenshot 2025-05-06 103251](https://github.com/user-attachments/assets/b09f6c07-d3af-436b-b720-3142b5504d75)
 ![Screenshot 2025-05-06 103452](https://github.com/user-attachments/assets/ba02893d-ef5d-4254-898d-712079127c77)
